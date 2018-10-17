@@ -1,0 +1,25 @@
+SUPERMERCADO 
+DE ANALUCIA, S.A. 
+CIF A-41398645 
+Albert Einstein, 2 
+41092 - SEVILLA
+
+ITV I1710 
+FACTURA SIMPLIFICADA 
+Recibo no.163326336
+Fecha:2018/10/16 23:49:20
+Cliente: Alejandra Lemus
+NIT: 12898567
+
+Leche           €3.95
+Huevos          €5.76
+Harina          €2.99
+Pan             €1.46
+Mantequilla     €2.4
+Azúcar          €5.8
+Aceite          €7.99
+
+Total: €30.35
+
+GRACIAS POR PREFERIRNOS 
+SUPERMERCADOS DE ANDALUCÍA
